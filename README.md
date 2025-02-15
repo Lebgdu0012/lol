@@ -1,2 +1,1 @@
-# lol
-lol
+https://discord.com/api/webhooks/1340369993346584631/Md7YAMCZ1CRW3BD6POaKFJA12_P2vnbfsRG1ESOIlxwK3ng81m_LUNGORh4TLOdPiUGR
